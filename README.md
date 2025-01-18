@@ -8,7 +8,7 @@
   <a href="mailto:“tefimov85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-    <a href="#">
+    <a href="https://docs.google.com/document/d/1yUaSeyda52uNjyjSVMwzKMtHDaEHXP7sInnI5j8_8Ao/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=Book&logoColor=white"/>
   </a>
 </div>
