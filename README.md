@@ -16,10 +16,9 @@
 
 <h2 align="center">Python Backend Developer</h2>
 
-<div align="center">
+<div align="center" display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" title="Pydantic" alt="Pydantic" width="40" height="40"/>&nbsp;
