@@ -15,12 +15,16 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" height="40"/>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 18px; flex-wrap: wrap;">
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" title="SQLAlchemy" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" title="Pydantic" height="40"/>
+
+  </div>
 </div>
 
 <p align="center">
@@ -48,4 +52,4 @@ Backend приложение для отслеживания откликов н
 
 ---
 
-<div align="center"> <a href="https://t.me/Iamtimu"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/> </a> <a href="mailto:tefimov85@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> ```
+<div align="center"> <a href="https://t.me/Iamtimu"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/> </a> <a href="mailto:tefimov85@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> 
