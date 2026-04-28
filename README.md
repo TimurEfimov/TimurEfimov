@@ -14,18 +14,9 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 18px; flex-wrap: wrap;">
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="FastAPI" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" title="SQLAlchemy" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" title="Pydantic" height="40"/>
-
-  </div>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,sqlite,docker,git" />
+</p>
 
 <p align="center">
 ⚡ FastAPI • SQLAlchemy • PostgreSQL • MySQL • Pydantic • REST API
